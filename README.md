@@ -23,9 +23,9 @@ calculate frequency of occurence.
 print the characters and its huffmancode.
 
  
-**Developed by :**  Divya A
+**Developed by :**  SK Balaji
 
-**Register no  :**  2305002007
+**Register no  :**  2305003001
 
 ## Program:
 ``` python
